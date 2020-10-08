@@ -37,3 +37,28 @@ print(is_day)
 
 print('Lights on ?')
 print(lights_on)
+
+
+
+//checking numbers equality
+print(10==10)
+//numbers inequality
+print(1 != 10)
+result = 1 != 2
+print(result)
+
+
+
+//tarck sales data
+stock = 600
+kitten_sold = 500
+target =500
+
+target_hit = kitten_sold == target
+print('Hit kitten sale target: ')
+print(target_hit)
+
+current_stock = stock - kitten_sold
+in_stock = current_stock != 0
+print('Kitten in stock')
+print(in_stock)
