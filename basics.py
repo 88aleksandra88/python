@@ -6,9 +6,9 @@ glass_1=glass_2
 glass_2=temp
 
 print('glass_1='+str(glass_1))
-//glass_1=soda
+#glass_1=soda
 print('glass_2='+str(glass_2))
-//glass_2=water
+#glass_2=water
 
 
 
@@ -18,15 +18,15 @@ print("number_of_steps +1")
 
 
 
-//kilometer convert
+#kilometer convert
 miles=500
 kilometers=miles * 1.609344
 print(kilometers)
-//804.674
+#804.674
 
 
 
-//switch light
+#switch light
 is_day = False
 lights_on = not is_day
 
@@ -38,16 +38,16 @@ print(lights_on)
 
 
 
-//checking numbers equality
+#checking numbers equality
 print(10==10)
-//numbers inequality
+#numbers inequality
 print(1 != 10)
 result = 1 != 2
 print(result)
 
 
 
-//tarck sales data
+#tarck sales data
 stock = 600
 kitten_sold = 500
 target =500

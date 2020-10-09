@@ -1,4 +1,4 @@
-//We will store the two teams in a list, check if they have the same length, then display the rounds left based on the length.
+#We will store the two teams in a list, check if they have the same length, then display the rounds left based on the length.
 
 team_1 = ["Mia","Lisa","Lenny"]
 team_2 = ["Bonjo","harley","Ava"]
@@ -10,7 +10,7 @@ if size_1 != size_2:
 else:
   print("Game on!")
 
-//rounds left
+/#rounds left
 if size_1 == 3:
   print("Rounds left: 3")
 elif size_1 == 2:
