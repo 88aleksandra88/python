@@ -40,6 +40,7 @@ print(f"{planet} has {moons} moons and {rings} rings")
 //Jpiter has 79 moons and 4 rings
 
 
+
 ///////////////////Making decisions///////////////////
 greet = True
 if greet :
@@ -50,6 +51,7 @@ greet = False
 if greet :
     print("Hello world!")
 //none
+
 
 
 email = "test@test.com"
